@@ -11,7 +11,7 @@
     (ffmpeg باید روی سیستم نصب باشد)
 
 اجرا:
-    export BOT_TOKEN="توکن ربات شما از BotFather"
+    export BOT_TOKEN="8934552989:AAG_25FQI0iKLMoyRYO7XA7iIl4eraT5dXk"
     python bot.py
 """
 
